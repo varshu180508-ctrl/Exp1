@@ -37,12 +37,9 @@ SEQUENCE DIAGRAM
 
 ACTIVITY DIAGRAM
 
-![Uploading Screenshot 2026-10-30 095710.png…]()
-
-
-
-
+<img width="473" height="416" alt="Screenshot 2026-10-30 095710" src="https://github.com/user-attachments/assets/067e3125-62c0-477b-bae2-aedfe7037d08" />
 
 
 
 # RESULT:
+Thus the UML diagram for ATM AND BANKING SYSTEM has been drawn and verified.
